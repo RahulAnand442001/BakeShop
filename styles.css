@@ -423,4 +423,8 @@ body {
     margin: 1rem;
     padding: 0;
   }
+
+  #menu {
+    padding: 0.5rem;
+  }
 }
